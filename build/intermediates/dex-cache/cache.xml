@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/html/myand/sendbird-sample/SendBirdAndroidSample/app/libs/sendbird-android-2.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f01289caf6b18f06e0437ad3804fdb9508c225f3">
+        <dex dex="/var/www/html/myand/sendbird-sample/SendBirdAndroidSample/app/build/intermediates/pre-dexed/debug/sendbird-android-2.0.2-91bf850a193b5bbd685e704e2ae66645acd52b98.jar" />
+    </item>
+    <item
+        jar="/var/www/html/myand/sendbird-sample/SendBirdAndroidSample/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/var/www/html/myand/sendbird-sample/SendBirdAndroidSample/app/build/intermediates/pre-dexed/debug/android-support-v4-2a982db2050bc98350b1dfced84f6ae922751daf.jar" />
+    </item>
+
+</items>
